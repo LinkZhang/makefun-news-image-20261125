@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261125/LinkZhang/makefun-news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/LinkZhang/makefun-news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-A program that writes one image summing up the world news of Wednesday 25 November 2026 to /output/entry.png: Shenzhou-24 puts the first Pakistani into orbit, Australia signs its Solomon Islands treaty, Asian stocks slide on a US tariff threat, Seoul's subway strike is called off, and Shanghai pledges loyalty after its party chief's probe.
+A program that writes one image summing up the world news of Wednesday 25 November 2026 to /output/entry.png: THE WORLD, a dense one-day broadsheet in six sections and seventeen stories. Lead: Shenzhou-24 docks with Tiangong, carrying the first Pakistani astronaut to fly to a space station. Then Middle East, United States, Europe, Asia & markets, and Sport, each in its own column.
 
 ## Run it
 
